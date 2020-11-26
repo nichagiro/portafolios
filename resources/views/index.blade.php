@@ -116,7 +116,7 @@
 <body>
 
 
-  <!-- start section header -->
+  <!-- Start section header -->
   <div id="header" class="home">
 
     <div class="container">
